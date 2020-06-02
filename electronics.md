@@ -4,11 +4,13 @@ Links to Audio Electronics Resources
 Embedded Electronics
 --------------------
 
-www.allaboutcircuits.com
-www.analog.com
-www.embedded.com
+<www.allaboutcircuits.com>
+
+<www.analog.com>
+
+<www.embedded.com>
 
 Designing Circuits
 ------------------
 
-www.circuito.io
+<www.circuito.io>
